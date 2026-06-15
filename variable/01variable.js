@@ -8,6 +8,9 @@ accountName = 'Kushal Ghimire';
 accountBalance = 2000;
 accountState = 'Active';
 
+accountName = 'Sanjal Ghimire';
+accountBalance = 2000;
+accountState = 'Active';
 // accountName = "Kushal Ghimire"
 // accountId = 12121å2
 
