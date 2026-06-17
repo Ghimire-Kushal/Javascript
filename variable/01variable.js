@@ -1,7 +1,7 @@
 const accountId = 12345;
 let accountName = 'Kushal';
 var accountBalance = 1000;
-var accountBalance = 3000;
+var accountBalance = 3000; //old
 
 let accountState;
 accountName = 'Kushal Ghimire';
